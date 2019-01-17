@@ -1,0 +1,33 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandEnvironmentPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PACKAGE_FILTER" value="mysql&#10;docutils&#10;ductils&#10;pypiwin32&#10;pypi" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value="lst" />
+    <property name="SettingsSearchHistory" value="pyqrcode" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/sql/1stsql.py&#10;C:/Users/SANJIB/PycharmProjects/1st&#10;C:/page/musip.py" />
+    <property name="file.gist.reindex.count" value="14869" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="lastTip" value="1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\SANJIB\PycharmProjects\1st\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
