@@ -5,6 +5,7 @@
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="proj.py" type="PLAIN_TEXT" />
       <mapping ext="kv" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
